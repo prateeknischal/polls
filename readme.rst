@@ -2,7 +2,7 @@
 Polls
 ###################
 
-Polls is a simple PHP application built in `CodeIgnitor Framework<https://www.codeigniter.com/>`_.
+Polls is a simple PHP application built in `CodeIgnitor Framework <https://www.codeigniter.com/>`_.
 This is can be used to take notes, make a TO-DO list or create a poll, if you are in a dilemma.
 
 *******************
