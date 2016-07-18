@@ -1,0 +1,12 @@
+/* magenta for lists */
+._post_heading{
+	background : #E91E63; color : white; border-color : #E91E63;
+}
+/* blue for notes */
+._post_heading_2{
+	background : #2196F3; color : white; border-color : #2196F3;
+}
+
+._post_body{
+	background : #B0B0B0;
+}
